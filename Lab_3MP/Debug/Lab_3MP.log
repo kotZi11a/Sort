@@ -1,0 +1,15 @@
+﻿  Source.cpp
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(93,12): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(117,23): warning C4244: =: преобразование "double" в "_Ty", возможна потеря данных
+          with
+          [
+              _Ty=int
+          ]
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(127,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(142,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(145,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(162,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(166,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(192,24): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Lab_3MP\Source.cpp(198,16): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  Lab_3MP.vcxproj -> D:\OneDrive - Samara University\Методы программирования\Lab_3MP\Debug\Lab_3MP.exe
